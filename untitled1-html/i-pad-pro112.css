@@ -1,0 +1,64 @@
+.i-pad-pro112-container {
+  min-height: 100vh;
+}
+.i-pad-pro112-i-pad-pro112 {
+  width: 100%;
+  height: 855px;
+  display: flex;
+  position: relative;
+  max-width: 1194px;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.i-pad-pro112-multiplication-tables1 {
+  top: 0px;
+  left: 0px;
+  width: 1194px;
+  height: 796px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.i-pad-pro112-navlink {
+  display: contents;
+}
+.i-pad-pro112-frame2 {
+  top: 783px;
+  left: 946px;
+  width: 235px;
+  height: 46px;
+  display: flex;
+  padding: 14px 61px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 10px;
+  margin-bottom: 0;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(84, 130, 249, 1);
+}
+.i-pad-pro112-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
